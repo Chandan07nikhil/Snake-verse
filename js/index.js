@@ -66,7 +66,7 @@ function gameEngine(){
             icon.src ="./img/play.png";
         }
         inputDir =  {x: 0, y: 0}; 
-        alert("Game Over. Press any key to play again!");
+        alert("Game Over. Press Ok to play again!");
         snakeArr = [{x: 13, y: 15}];
         
         if(flag == 1){
