@@ -26,7 +26,7 @@
 #hiscoreBox{
     position: absolute;
     top: 59px;
-    right: 270px;
+    right: 220px;
     font-size: 39px;
     font-weight: bold;
     font-family: 'New Tegomin', serif;
@@ -35,7 +35,7 @@
 #sound{
     position: absolute;
     top: 125px;
-    right: 355px;
+    right: 300px;
     font-size: 39px;
     font-weight: bold;
     font-family: 'New Tegomin', serif;
@@ -44,7 +44,7 @@
 #icon{
     position: absolute;
     top: 110px;
-    right: 250px;
+    right: 200px;
 }
 
 #board{
