@@ -35,7 +35,7 @@
 #sound{
     position: absolute;
     top: 125px;
-    right: 200px;
+    right: 250px;
     font-size: 39px;
     font-weight: bold;
     font-family: 'New Tegomin', serif;
@@ -44,7 +44,7 @@
 #icon{
     position: absolute;
     top: 110px;
-    right: 100px;
+    right: 140px;
 }
 
 #board{
